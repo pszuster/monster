@@ -22,7 +22,7 @@
     <repositories>
         <repository>
             <id>redhat-techpreview-all-repository</id>
-            <url>http://nexus.cloudapps.workshopdevops.com/content/repositories/maltron/</url>
+            <url>https://maven.repository.redhat.com/techpreview/all/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -35,7 +35,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>redhat-techpreview-all-repository</id>
-            <url>http://nexus.cloudapps.workshopdevops.com/content/repositories/maltron/</url>
+            <url>https://maven.repository.redhat.com/techpreview/all/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
