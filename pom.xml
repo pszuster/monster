@@ -21,8 +21,28 @@
     -->
     <repositories>
         <repository>
+            <id>jboss-eap-repository</id>
+            <url>http://10.17.48.3:8081/nexus/content/repositories/jboss-eap-repository/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>central</id>
+            <url>http://10.17.48.3:8081/nexus/content/repositories/central/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+        <repository>
             <id>redhat-techpreview-all-repository</id>
-            <url>http://nexus.cloudapps.workshopdevops.com/content/repositories/maltron/</url>
+            <url>http://10.17.48.3:8081/nexus/content/repositories/redhat-techpreview-all-repository/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -34,8 +54,28 @@
 
     <pluginRepositories>
         <pluginRepository>
+            <id>jboss-eap-repository</id>
+            <url>http://10.17.48.3:8081/nexus/content/repositories/jboss-eap-repository/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </pluginRepository>
+        <pluginRepository>
+            <id>central</id>
+            <url>http://10.17.48.3:8081/nexus/content/repositories/central/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </pluginRepository>
+        <pluginRepository>
             <id>redhat-techpreview-all-repository</id>
-            <url>http://nexus.cloudapps.workshopdevops.com/content/repositories/maltron/</url>
+            <url>http://10.17.48.3:8081/nexus/content/repositories/redhat-techpreview-all-repository/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
