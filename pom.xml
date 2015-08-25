@@ -22,7 +22,7 @@
     <repositories>
         <repository>
             <id>jboss-eap-repository</id>
-            <url>http://10.17.48.3:8081/nexus/content/repositories/jboss-eap-repository/</url>
+            <url>http://153.92.39.197:8081/nexus/content/repositories/jboss-eap-repository/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -32,7 +32,7 @@
         </repository>
         <repository>
             <id>central</id>
-            <url>http://10.17.48.3:8081/nexus/content/repositories/central/</url>
+            <url>http://153.92.39.197:8081/nexus/content/repositories/central/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -42,7 +42,7 @@
         </repository>
         <repository>
             <id>redhat-techpreview-all-repository</id>
-            <url>http://10.17.48.3:8081/nexus/content/repositories/redhat-techpreview-all-repository/</url>
+            <url>http://153.92.39.197:8081/nexus/content/repositories/redhat-techpreview-all-repository/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -55,7 +55,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>jboss-eap-repository</id>
-            <url>http://10.17.48.3:8081/nexus/content/repositories/jboss-eap-repository/</url>
+            <url>http://153.92.39.197:8081/nexus/content/repositories/jboss-eap-repository/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -65,7 +65,7 @@
         </pluginRepository>
         <pluginRepository>
             <id>central</id>
-            <url>http://10.17.48.3:8081/nexus/content/repositories/central/</url>
+            <url>http://153.92.39.197:8081/nexus/content/repositories/central/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -75,7 +75,7 @@
         </pluginRepository>
         <pluginRepository>
             <id>redhat-techpreview-all-repository</id>
-            <url>http://10.17.48.3:8081/nexus/content/repositories/redhat-techpreview-all-repository/</url>
+            <url>http://153.92.39.197:8081/nexus/content/repositories/redhat-techpreview-all-repository/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
